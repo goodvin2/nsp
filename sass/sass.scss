@@ -80,7 +80,7 @@ header {
 		margin: auto;
 		> div:nth-child(1) {
 			//margin-top: 8px;
-			padding: 0px 45px 0px 10px !important;
+			padding: 0px 45px 0px 30px !important;
 			background: transparent url(../img/logo.png) 0 0 no-repeat;
 			height: 72px;
 		}
@@ -361,6 +361,7 @@ main {
 									font-size: 13px;
 									color: #888888;
 									line-height: 22px;
+									padding-top: 15px;
 										> .title {
 										font-family: RalewayBold;
 										font-size: 13px;
@@ -381,6 +382,7 @@ footer {
 	margin: 100%;
 	margin: auto;
 	background-color: #313131;
+	margin-top: 363px;
 	> .footer_1 {
 		width: auto;
 		margin: 0px;

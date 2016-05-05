@@ -75,13 +75,6 @@ $(window).resize(function() {
 	}
 });
 
-$(function(){
-    $("#container_for_popup_1").load("include/popup1.html"); 
-    $("#container_for_popup_2").load("include/popup2.html"); 
-    $("#container_for_popup_3").load("include/popup3.html"); 
-    $("#container_for_popup_4").load("include/popup4.html"); 
-});
-
 function f2() {
 	setInterval(function () {
 	if ($(window).width() <= '530') {
